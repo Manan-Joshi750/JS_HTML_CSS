@@ -1,8 +1,8 @@
 **Prior Information:**
 
-1. Both games are designed to be played directly in a web browser without any additional setup.
+1. All applications are designed to be accessed directly in a web browser without any additional setup.
 2. They are lightweight and demonstrate fundamental concepts of front-end web development using HTML, CSS, and JavaScript.
-3. Feel free to explore the code (Tic_Tac_Toe.js and Rock_Paper_Scissors.js for logic, Tic_Tac_Toe.css and Rock_Paper_Scissors.css for styling) to see how each game was implemented.
+3. Feel free to explore the code (respective .js file for logic and respective.css file for styling) to see how each one of them was implemented.
 
 **Key Features**
 
@@ -20,8 +20,9 @@
 3. Determines winners based on classic rules: rock beats scissors, scissors beats paper, paper beats rock.
 4. Interactive interface designed for quick and engaging gameplay.
 
-**3. Technical Details**
+**3. Calculator**
 
-1. Both games are built using basic front-end technologies: HTML for structure, CSS for styling, and JavaScript for logic.
-2. **Minimal setup required :—>** simply open the Tic_Tac_Toe.html and Rock_Paper_Scissors.html file in a web browser to start playing.
-3. Code is structured to demonstrate fundamental programming concepts and game logic.
+1. The calculator updates the display dynamically, showing the full expression as you type.
+2. Handles addition, subtraction, multiplication, and division using the eval function for accurate results.
+3. Easily reset the calculator with the clear button (C), starting a new calculation afresh.
+4. After showing a result, seamlessly start a new expression or continue with the current calculation based on input.
