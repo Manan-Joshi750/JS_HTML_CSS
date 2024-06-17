@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("https://c1.wallpaperflare.com/preview/287/756/864/board-conductors-circuits-calculator.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 97vh;
+    font-family: Arial, sans-serif;
+}
+main{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+.container{
+    max-width: 400px;
+}
+.calc-body{
+    display: flex;
+    flex-direction: column;
+}
+#display-screen{
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: right;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+#display-screen p{
+    font-size: 2em;
+}
+#buttons{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+button{
+    padding: 20px;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    flex: 1 1 21%; /*Basis for 4 buttons per row*/
+}
+button.value{
+    background-color: #f0f0f0;
+}
+button.value:hover{
+    background-color: #dcdcdc;
+}
+button.operator{
+    background-color: #ff9500;
+    color: #fff;
+}
+button.operator:hover{
+    background-color: #e08900;
+}
+.decide{
+    display: flex;
+    width: 100%;
+}
+#cancel{
+    background-color: #ff3b30;
+    color: #fff;
+    margin-right: 10px;
+}
+#cancel:hover{
+    background-color: #e03328;
+}
+#calculate{
+    background-color: #4cd964;
+    color: #fff;
+    margin-left: 10px;
+}
+#calculate:hover{
+    background-color: #3ec851;
+}
