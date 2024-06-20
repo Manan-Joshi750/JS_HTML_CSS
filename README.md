@@ -47,3 +47,10 @@
 2. Users can choose from a variety of colors displayed as clickable div elements to instantly update the background.
 3. The user interface is straightforward, making it easy for users to interact and change colors.
 4. The application is designed to be responsive, ensuring usability across various devices and screen sizes.
+
+**7. Captcha Generator**
+
+1. Generates random CAPTCHA strings using HTML, CSS, and JavaScript.
+2. Features a refresh button to create a new CAPTCHA and a submit button to validate user input.
+3. Users enter the CAPTCHA into an input field and receive immediate feedback on correctness.
+4. Designed for single-device use with a clean, user-friendly interface.
