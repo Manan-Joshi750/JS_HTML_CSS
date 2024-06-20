@@ -54,3 +54,10 @@
 2. Features a refresh button to create a new CAPTCHA and a submit button to validate user input.
 3. Users enter the CAPTCHA into an input field and receive immediate feedback on correctness.
 4. Designed for single-device use with a clean, user-friendly interface.
+
+**8. Temperature Converter**
+
+1. Convert temperatures between Celsius and Fahrenheit with an intuitive input and dropdown selection.
+2. Accessible and visually appealing on various devices and screen sizes.
+3. Immediate feedback for temperature conversion upon input and selection.
+4. Alerts users of invalid inputs, ensuring accurate conversion results.
