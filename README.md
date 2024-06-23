@@ -61,3 +61,10 @@
 2. Accessible and visually appealing on various devices and screen sizes.
 3. Immediate feedback for temperature conversion upon input and selection.
 4. Alerts users of invalid inputs, ensuring accurate conversion results.
+
+**9. Simple Survey Bot**
+
+1. Interactive survey bot that asks a series of questions to the user.
+2. Each response is acknowledged with a friendly message related to the user's input.
+3. The bot waits 2 seconds before proceeding to the next question.
+4. After the final question's response, the bot displays a closing message and hides the input box, providing a smooth conclusion to the interaction.
