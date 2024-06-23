@@ -1,0 +1,37 @@
+body{
+    background-color: peachpuff;
+}
+h1{
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 60px;
+    color: black;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    height: 80vh;
+}
+#result{
+    font-size: 30px;
+    color: brown;
+}
+.input{
+    margin-top: 20px;
+}
+#ans{
+    color: orangered;
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid black;
+    background: transparent;
+    border-radius: 5px;
+}
+#ans::placeholder{
+    color: orangered;
+}
+#ans:focus{
+    outline: none;
+}
