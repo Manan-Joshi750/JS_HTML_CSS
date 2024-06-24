@@ -90,3 +90,11 @@
 2. Shows hours, minutes, seconds, and period (AM/PM).
 3. Uses JavaScript to dynamically update the time.
 4. Enhances appearance with a black background and cyan text.
+
+**13. Password Strength Checker**
+
+1. Created a real-time password strength checker.
+2. Enhanced UI with a modern design and clear color scheme.
+3. Displays password strength with colored bars: red (poor), orange (weak), green (strong).
+4. Provides real-time feedback and alerts for whitespace.
+5. Added a toggle feature to show or hide the password.
