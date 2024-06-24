@@ -76,3 +76,10 @@
 3. Fetches exchange rates from two APIs and displays the converted amount.
 4. Defaults to "1" for invalid inputs and handles API failures gracefully.
 5. Loading indicator during data fetch; responsive design for all devices.
+
+**11. Password Generator**
+
+1. Users can generate random passwords by clicking "Generate Password".
+2. Options to include lowercase, uppercase, numbers, symbols, exclude duplicates, and include spaces.
+3. Generated password displayed in a non-editable text input field.
+4. Users can copy the password to the clipboard by clicking "Copy".
