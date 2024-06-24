@@ -77,15 +77,16 @@
 4. Defaults to "1" for invalid inputs and handles API failures gracefully.
 5. Loading indicator during data fetch; responsive design for all devices.
 
-**11. Digital Clock**
-
-1. Displays a digital clock that updates in real-time.
-2. Shows hours, minutes, seconds, and period (AM/PM).
-3. Uses JavaScript to dynamically update the time.
-4. Enhances appearance with a black background and cyan text.
 **11. Password Generator**
 
 1. Users can generate random passwords by clicking "Generate Password".
 2. Options to include lowercase, uppercase, numbers, symbols, exclude duplicates, and include spaces.
 3. Generated password displayed in a non-editable text input field.
 4. Users can copy the password to the clipboard by clicking "Copy".
+
+**12. Digital Clock**
+
+1. Displays a digital clock that updates in real-time.
+2. Shows hours, minutes, seconds, and period (AM/PM).
+3. Uses JavaScript to dynamically update the time.
+4. Enhances appearance with a black background and cyan text.
