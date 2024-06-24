@@ -68,3 +68,11 @@
 2. Each response is acknowledged with a friendly message related to the user's input.
 3. The bot waits 2 seconds before proceeding to the next question.
 4. After the final question's response, the bot displays a closing message and hides the input box, providing a smooth conclusion to the interaction.
+
+**10. Currency Converter**
+
+1. User-friendly interface with input fields, currency dropdowns, and flags.
+2. Reverse currencies with an arrow icon; updates flags dynamically.
+3. Fetches exchange rates from two APIs and displays the converted amount.
+4. Defaults to "1" for invalid inputs and handles API failures gracefully.
+5. Loading indicator during data fetch; responsive design for all devices.
