@@ -98,3 +98,25 @@
 3. Displays password strength with colored bars: red (poor), orange (weak), green (strong).
 4. Provides real-time feedback and alerts for whitespace.
 5. Added a toggle feature to show or hide the password.
+
+**14. Naughty Submit Button**
+
+1. Login form with a moving "Submit" button using HTML, CSS, and JavaScript.
+2. Validates username (alphanumeric, 4+ characters) and password (8+ characters, includes upper/lower case, number, special symbol).
+3. Changes input field colors based on validity.
+4. Shows success message on valid input; button moves on invalid input.
+
+**15. ToDo List Application**
+
+1. HTML, CSS, and JavaScript create a dynamic to-do list application.
+2. Users can add tasks, mark them as complete, and delete individual tasks.
+3. Pending tasks count updates dynamically; users can clear all tasks with a button.
+4. Interface features include a textarea for input, list items for tasks, and a clear button, all styled with a clean, responsive design.
+
+**16. Weather ForeCast Application**
+
+1. This project features a weather forecast application built using HTML, CSS, and JavaScript.
+2. Users can input a city name and click "Search" to retrieve and display current weather data.
+3. The application dynamically updates the UI to show details such as temperature, weather description, humidity, wind speed, pressure, and precipitation.
+4. CSS is used to style the application with responsive design principles, including transitions and background color changes based on temperature ranges.
+5. JavaScript handles API requests to fetch weather data from OpenWeatherMap and manages the display of weather information based on user input.
