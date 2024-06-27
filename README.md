@@ -120,3 +120,11 @@
 3. The application dynamically updates the UI to show details such as temperature, weather description, humidity, wind speed, pressure, and precipitation.
 4. CSS is used to style the application with responsive design principles, including transitions and background color changes based on temperature ranges.
 5. JavaScript handles API requests to fetch weather data from OpenWeatherMap and manages the display of weather information based on user input.
+
+**17. Quiz Application**
+
+1. JavaScript code manages a quiz application where questions are shuffled and only five out of ten questions are asked randomly.
+2. User selects answers through radio buttons; correct answers are tracked to calculate the score.
+3. After answering five questions, it checks if the user can proceed to the sixth based on correct answers.
+4. Results display the total score and review each question showing user's and correct answers.
+5. CSS styles ensure a visually appealing quiz interface with responsive design elements.
