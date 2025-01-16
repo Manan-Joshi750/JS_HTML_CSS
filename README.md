@@ -128,3 +128,10 @@
 3. After answering five questions, it checks if the user can proceed to the sixth based on correct answers.
 4. Results display the total score and review each question showing user's and correct answers.
 5. CSS styles ensure a visually appealing quiz interface with responsive design elements.
+
+**18. Snake Game**
+
+1. A classic snake game where the snake moves across the screen, growing in size as it consumes food.  
+2. Styled using CSS for a visually appealing and smooth gaming experience.  
+3. JavaScript handles the movement logic, collision detection, and score tracking.  
+4. Easily modifiable speed, grid size, and design elements for personalized gameplay.  
